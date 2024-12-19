@@ -21,3 +21,4 @@ int main() {
     return 0;
 }
 // nhuc cai dau thiet  
+// em khong hieu de muon nhap phan tu the nao nen em cho nguoi dung nhap vao luon nha thay
